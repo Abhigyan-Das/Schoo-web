@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-image: linear-gradient(to bottom right, red 30%, blue 100%);
+   
+}
+#myNavbar
+{
+    position: sticky;
+    font-size: 50px;
+    z-index: 99999;
+}
+.image
+{
+   width: 100%;
+   height: 500px;
+   border: none;
+}
+#main
+{
+    position: sticky;
+
+    background: rgba(163, 186, 9, 0.608);
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
